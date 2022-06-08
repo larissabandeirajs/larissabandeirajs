@@ -9,13 +9,12 @@
 
 <div align="center">
   <a href="https://github.com/larissabandeirajs">
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=larissabandeirajs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissabandeirajs&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larissabandeirajs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissabandeirajs&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-  
  ##
-  <br><br><br><br><br><br><br>
+  <br>
 <div style="display: inline_block"><br>
   <img align="center" alt="Larissa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center" alt="Larissa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
