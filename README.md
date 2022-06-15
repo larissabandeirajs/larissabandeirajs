@@ -2,7 +2,7 @@
 
 - 🎂 06/05/1997 - 25 anos
 - :briefcase: Atualmente trabalho com suporte de sistemas
-- :books: Estudando C# e PHP
+- :books: Estudante de Desenvolvimento de Sistemas
 - :mailbox: Contato: larissaband13@gmail.com
 
 ##
