@@ -1,7 +1,7 @@
 ### Olá! eu sou a Larissa Bandeira de Jesus
 
 - 🎂 06/05/1997 - 25 anos
-- :briefcase: Atualmente trabalho com suporte de sistemas
+- :briefcase: Atualmente trabalho com Suporte de Sistemas
 - :books: Estudante de Desenvolvimento de Sistemas
 - :mailbox: Contato: larissaband13@gmail.com
 
